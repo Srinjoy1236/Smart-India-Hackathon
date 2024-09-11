@@ -40,7 +40,7 @@ const Hero = () => {
             with PIXIAS, the open AI Image Generation Chatbot.
           </p>
           <Button href="/pricing" white>
-            <a href="https://openai.com/chatgpt/" className="href">Get Started</a>
+            <a href="https://69b4-34-16-200-59.ngrok-free.app/" className="href">Get Started</a>
           </Button>
         </div>
         <div className="relative max-w-[23rem] mx-auto md:max-w-5xl xl:mb-24">
